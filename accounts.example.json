@@ -1,0 +1,27 @@
+[
+  {
+    "id": "acc-1",
+    "name": "Conta 1 (kbelludoo)",
+    "enabled": true,
+    "credentials": {
+      "email": "kbelludoo",
+      "username": "kbelludoo",
+      "password": "senha",
+      "token": "",
+      "deviceId": ""
+    },
+    "settings": {
+      "huntTarget": "auto",
+      "autoHunt": true,
+      "autoSell": true,
+      "autoHeal": true,
+      "autoDaily": true,
+      "autoCatch": false,
+      "focusPokedex": false,
+      "exploitWeakness": true,
+      "preferredBall": "pokeball",
+      "minHpPercent": 25,
+      "saveIntervalSec": 30
+    }
+  }
+]
